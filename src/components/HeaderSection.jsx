@@ -14,7 +14,7 @@ const HeaderSection = ({change}) => {
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
       <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">Home</a>
       <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">About Us</a>
-      <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">contact</a>
+      <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">Contact</a>
       <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">Review</a>
       <a className="mr-8 hover:text-[#db2777] text-[25px] font-semibold">Logout</a>
     </nav>
